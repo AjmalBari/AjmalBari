@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AjjerTheBadger
-- 👀 I’m interested in Machine Learning and Deep Learning
-- 🌱 I’m currently learning how Neural networks work
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning how to write code that compiles on the first try
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
